@@ -3,13 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_range.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tulee <tulee@student.42berlin.de>          +#+  +:+       +#+        */
+/*   By: kahei.li <kahei.li@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/10 16:19:25 by tulee             #+#    #+#             */
-/*   Updated: 2025/03/10 17:05:06 by tulee            ###   ########.fr       */
+/*   Updated: 2025/03/27 20:44:32 by kahei.li         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <stdio.h>
+
 #include <stdlib.h>
 
 int	*ft_range(int min, int max)
